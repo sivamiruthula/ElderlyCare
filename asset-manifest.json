@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sivamiruthula/ElderlyCare.git/static/css/main.561947ff.css",
-    "main.js": "/sivamiruthula/ElderlyCare.git/static/js/main.ee93a92f.js",
-    "static/js/453.ad6eb26e.chunk.js": "/sivamiruthula/ElderlyCare.git/static/js/453.ad6eb26e.chunk.js",
-    "static/media/old4.png": "/sivamiruthula/ElderlyCare.git/static/media/old4.72298cfd1e3b03a9ce15.png",
-    "index.html": "/sivamiruthula/ElderlyCare.git/index.html",
-    "main.561947ff.css.map": "/sivamiruthula/ElderlyCare.git/static/css/main.561947ff.css.map",
-    "main.ee93a92f.js.map": "/sivamiruthula/ElderlyCare.git/static/js/main.ee93a92f.js.map",
-    "453.ad6eb26e.chunk.js.map": "/sivamiruthula/ElderlyCare.git/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/ElderlyCare/static/css/main.2fe1432b.css",
+    "main.js": "/ElderlyCare/static/js/main.9b4973b1.js",
+    "static/js/453.ad6eb26e.chunk.js": "/ElderlyCare/static/js/453.ad6eb26e.chunk.js",
+    "static/media/old4.png": "/ElderlyCare/static/media/old4.72298cfd1e3b03a9ce15.png",
+    "index.html": "/ElderlyCare/index.html",
+    "main.2fe1432b.css.map": "/ElderlyCare/static/css/main.2fe1432b.css.map",
+    "main.9b4973b1.js.map": "/ElderlyCare/static/js/main.9b4973b1.js.map",
+    "453.ad6eb26e.chunk.js.map": "/ElderlyCare/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.561947ff.css",
-    "static/js/main.ee93a92f.js"
+    "static/css/main.2fe1432b.css",
+    "static/js/main.9b4973b1.js"
   ]
 }
