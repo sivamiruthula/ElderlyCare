@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sivamiruthula/ElderlyCare.git/static/css/main.561947ff.css",
+    "main.js": "/sivamiruthula/ElderlyCare.git/static/js/main.ee93a92f.js",
+    "static/js/453.ad6eb26e.chunk.js": "/sivamiruthula/ElderlyCare.git/static/js/453.ad6eb26e.chunk.js",
+    "static/media/old4.png": "/sivamiruthula/ElderlyCare.git/static/media/old4.72298cfd1e3b03a9ce15.png",
+    "index.html": "/sivamiruthula/ElderlyCare.git/index.html",
+    "main.561947ff.css.map": "/sivamiruthula/ElderlyCare.git/static/css/main.561947ff.css.map",
+    "main.ee93a92f.js.map": "/sivamiruthula/ElderlyCare.git/static/js/main.ee93a92f.js.map",
+    "453.ad6eb26e.chunk.js.map": "/sivamiruthula/ElderlyCare.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561947ff.css",
+    "static/js/main.ee93a92f.js"
+  ]
+}
