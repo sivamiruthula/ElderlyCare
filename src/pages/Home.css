@@ -43,9 +43,8 @@ body {
 }
 
 .elder-text {
-  align-text: center;
-  color: var(--accent-color);
-  font-weight: 700;
+color: var(--accent-color);
+font-weight: 700;
 }
 
 .caretext {
